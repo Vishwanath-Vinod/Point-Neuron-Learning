@@ -114,6 +114,3 @@ If you use this implementation in your research, please cite:
   author={Vinod, Vishwanath and Xu, Shaoheng and Samarasinghe, Prasanga N and Bastine, Amy and Abhayapala, Thushara D}
 }
 ```
-
-**Vishwanath Vinod**
-Indian Institute of Technology Madras
